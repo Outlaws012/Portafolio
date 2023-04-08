@@ -277,9 +277,10 @@ section {
 
 .home-img img {
     position: absolute;
-    right: 100px;
-    bottom: 9rem;
-    width: 23%;
+    right: 0;
+    bottom: 8rem;
+    width: 32%;
+    border-radius: 1rem;
     pointer-events: none;
 }
 
@@ -296,6 +297,7 @@ span {
 
 .about-img img{
     width: 40vw;
+    border-radius: 1rem;
 }
 
 .heading {
